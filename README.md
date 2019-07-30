@@ -89,9 +89,7 @@ Solutions are coded using C++ 14
 
 |          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
 |:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         Introduction        | [Say "Hello, World!" With C++
-
-](https://www.hackerrank.com/challenges/cpp-hello-world/problem)                                                |    5   | [Solution.cpp]()                                                  |
+|         Introduction        | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)                                                |    5   | [Solution.cpp]()                                                  |
 |         Introduction        | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)                                 |    5   | [Solution.cpp]()                                       |
 |         Introduction        | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)                                                       |   10   | [Solution.cpp]()                                                        |
 |         Introduction        | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)                                      |   10   | [Solution.cpp]()                                      |
