@@ -6,8 +6,8 @@
 </p>
 
 * [30 Days of Code](#30-days-of-code)
-* [Problem Solving](#problem-solving)
-* [C++](#c++)
+* [Problem Solving](#Algorithms)
+* [C++](#C++)
 
 
 Solutions are coded using C++ 14
