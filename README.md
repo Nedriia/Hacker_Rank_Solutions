@@ -7,7 +7,7 @@
 
 * [30 Days of Code](#30-days-of-code)
 * [Problem Solving](#Algorithms)
-* [C++](#C++)
+* [C++](#c)
 
 
 Solutions are coded using C++ 14
