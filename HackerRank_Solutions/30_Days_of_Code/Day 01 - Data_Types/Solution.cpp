@@ -37,4 +37,3 @@ int main() {
 	}
 	std::cout << s + ss;
 	return 0;
-}
