@@ -17,7 +17,7 @@ Solutions are coded using C++ 14
 
 | Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Hello, World](https://www.hackerrank.com/challenges/cpp-hello-world/problem)                                    |   30   | [Solution.cpp]()                       |
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/cpp-hello-world/problem)                                    |   30   | [Solution.cpp](https://github.com/Nedriia/Hacker_Rank_Solutions/blob/master/HackerRank_Solutions/30_Days_of_Code/Day%2000%20-%20Hello_World/Solution.cpp)                       |
 |  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                       |   30   | [Solution.cpp]()                           |
 |  2  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                         |   30   | [Solution.cpp]()                              |
 |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)      |   30   | [Solution.cpp]()  |
