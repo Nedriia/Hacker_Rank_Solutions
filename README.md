@@ -45,6 +45,8 @@ Solutions are coded using C++ 14
 |  25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)     |   30   | [Solution.cpp](https://github.com/Nedriia/Hacker_Rank_Solutions/blob/master/HackerRank_Solutions/30_Days_of_Code/Day%2025%20-%20Running_Time_and_Complexity/Solution.cpp)      |
 |  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)                                   |   30   | [Solution.cpp](https://github.com/Nedriia/Hacker_Rank_Solutions/blob/master/HackerRank_Solutions/30_Days_of_Code/Day%2026%20-%20Nested_Logic/Solution.cpp)                         |
 |  27 | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)                                             |   30   | [Solution.cpp](https://github.com/Nedriia/Hacker_Rank_Solutions/blob/master/HackerRank_Solutions/30_Days_of_Code/Day%2027%20-%20Testing/Solution.cpp)                                |
+|  28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem?h_r=profile)                                             |   30   | [Solution.cpp]()                                |
+|  29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem?h_r=profile)                                             |   30   | [Solution.cpp]()                                |
 
 
 # Algorithms
@@ -83,6 +85,13 @@ Solutions are coded using C++ 14
 |         Algorithms         | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)                                            |   30   | [Solution.cpp](https://github.com/Nedriia/Hacker_Rank_Solutions/blob/master/HackerRank_Solutions/Problem_Solving/Corectness_and_the_Loop_Invariant/Solution.cpp)                            |
 |         Algorithms         | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)                                            |   30   | [Solution.cpp](https://github.com/Nedriia/Hacker_Rank_Solutions/blob/master/HackerRank_Solutions/Problem_Solving/Running_Time_of_Algorithms/Solution.cpp)                            |
 |         Algorithms         | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)                                                    |   10   | [Solution.cpp](https://github.com/Nedriia/Hacker_Rank_Solutions/blob/master/HackerRank_Solutions/Problem_Solving/Quicksort_1-Partition/Solution.cpp)                                  |
+|         Sorting         | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem?h_r=profile)                                                    |   30   | [Solution.cpp]()                                  |
+|         Implementation         | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_r=profile)                                                    |   10   | [Solution.cpp]()                                  |
+|         Implementation         | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?h_r=profile)                                                    |   15   | [Solution.cpp]()                                  |
+|         Implementation         | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?h_r=profile)                                                    |   20   | [Solution.cpp]()                                  |
+|         Bit Manipulation         | [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem?h_r=profile)                                                    |   30   | [Solution.cpp]()                                  |
+|         Bit Manipulation         | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem?h_r=profile)                                                    |   20   | [Solution.cpp]()                                  |
+
 
 
 # C++
